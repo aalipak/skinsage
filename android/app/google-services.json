@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228621321547",
+    "project_id": "skinsage-781c1",
+    "storage_bucket": "skinsage-781c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228621321547:android:4367fbc2aa4ba98f2554ce",
+        "android_client_info": {
+          "package_name": "com.example.skinsage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDihvjYDB-6batI_XK-ZySq3WhB3NCHl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

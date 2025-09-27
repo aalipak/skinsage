@@ -1,0 +1,2 @@
+D:/skinsageDemo/skinsage/android/app/.cxx/Debug/3z1s4x1u/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/skinsageDemo/skinsage/android/app/.cxx/Debug/3z1s4x1u/arm64-v8a/CMakeFiles/rebuild_cache.dir

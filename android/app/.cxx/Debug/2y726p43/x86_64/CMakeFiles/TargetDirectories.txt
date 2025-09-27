@@ -1,0 +1,2 @@
+C:/Users/HP/Documents/aali sem 8/fyp/skinsage FINAL/skinsage/android/app/.cxx/Debug/2y726p43/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/aali sem 8/fyp/skinsage FINAL/skinsage/android/app/.cxx/Debug/2y726p43/x86_64/CMakeFiles/rebuild_cache.dir

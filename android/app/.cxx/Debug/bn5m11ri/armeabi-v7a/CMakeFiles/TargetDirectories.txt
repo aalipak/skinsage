@@ -1,0 +1,2 @@
+D:/skinsageFinal/skinsage/android/app/.cxx/Debug/bn5m11ri/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/skinsageFinal/skinsage/android/app/.cxx/Debug/bn5m11ri/armeabi-v7a/CMakeFiles/rebuild_cache.dir
