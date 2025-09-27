@@ -18,16 +18,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   
   // Initialize Firebase first
-  await Firebase.initializeApp(
-    options: const FirebaseOptions(
-      apiKey: "AIzaSyDDihvjYDB-6batI_XK-ZySq3WhB3NCHl0",
-      authDomain: "skinsage-781c1.firebaseapp.com",
-      projectId: "skinsage-781c1",
-      storageBucket: "skinsage-781c1.appspot.com",
-      messagingSenderId: "228621321547",
-      appId: "1:228621321547:android:4367fbc2aa4ba98f2554ce",
-    ),
-  );
+  
 
   // Initialize FaceCamera
   await FaceCamera.initialize();
@@ -98,3 +89,4 @@ class MyApp extends StatelessWidget {
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///
 ///
+
